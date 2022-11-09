@@ -1,0 +1,19 @@
+{
+  "name": "aws-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "nodemon": "nodemon index.js"
+  },
+  "author": "sithum",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1250.0",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
